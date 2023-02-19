@@ -35,4 +35,4 @@
 ©️ CopyRight By CorteX Project & `Hekson-
 
 
-https://cdn.discordapp.com/attachments/1063532884473937931/1076960222322634782/image.png
+<img src="https://cdn.discordapp.com/attachments/1063532884473937931/1076960222322634782/image.png" alt="New UI">
